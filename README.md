@@ -2,18 +2,6 @@
 
 # 1. Identificação
 
-a. Identidade Visual do projeto:
-
-
-<img src="https://cdn.discordapp.com/attachments/1136107054034075658/1151113194916560961/logoPrefeitura.png" width="300px">
-<br>
-
-b. Redes Sociais do Projeto
-- Em andamento...
-
-c. Equipe:
-- Equipe Innovatech
-
 Integrantes: 
 - Alexandre Solyom - Estudante
 - João Meneses - Estudante
@@ -28,10 +16,10 @@ Professor Co-Orientador:
 - Ronan Assumpção Silva - Doutor em Informática
 
 
-d. Data criação do documento:
+a. Data criação do documento:
 - 13/06/2023
 
-e. Professores Colaboradores:
+b. Professores Colaboradores:
 
 - Jeanine Geraldo Javarez - Doutora em Letras
 - Lauriana Paludo - Mestre em Computação Aplicada
